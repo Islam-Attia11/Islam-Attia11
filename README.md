@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Islam Attia from Egypt studing at Aerospace Department at Cairo University intersted with learning Analog control , Aerodynamics and space mechanics. I love the studying of high speed vehicles like racing car , planes, sonic and supersonic aircrafts .  I'm a member with the control team at Space System Technology Lab. ypu can check my LinkedIn account here https://www.linkedin.com/in/islam-attia-447594180/ .
 <!--
 **Islam-Attia11/Islam-Attia11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
